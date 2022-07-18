@@ -1,0 +1,10 @@
+.feature{
+    display: inline-block;
+    margin-top: -24px;
+}
+.feature .fa{
+    width: 64px;
+    height: 64px;
+    line-height: 64px;
+    font-size: 20px;
+}
